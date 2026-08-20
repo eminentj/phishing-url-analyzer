@@ -34,7 +34,7 @@ Reasons:
 ## Quick start (CLI)
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/phishing-url-analyzer.git
+git clone https://github.com/eminentj/phishing-url-analyzer.git
 cd phishing-url-analyzer
 pip install python-whois --break-system-packages   # optional, enables live domain-age checks
 
