@@ -73,10 +73,3 @@ This is a personal project, not a production security product. A "low risk" scor
 
 The brand list currently covers about 20 well-known companies — real-world phishing targets a much wider range of brands. Contributions to expand it are welcome.
 
-## The build story
-
-This was built almost entirely through AI pair-programming, with no prior coding background going in. If you're curious how that actually worked day to day — including a real detection bug that shipped in an early version and how it got caught — that's covered in a video: _[link your YouTube video here once published]_.
-
-## License
-
-_Add a license if you want others to reuse this — MIT is a common, permissive choice for a project like this._
